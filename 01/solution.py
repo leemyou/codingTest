@@ -1,3 +1,5 @@
+solution = (["muzi", "frodo", "apeach", "neo"], ["muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"], 2)
+
 def solution(id_list, report, k):
 
     # 1. report의 중복 제거
